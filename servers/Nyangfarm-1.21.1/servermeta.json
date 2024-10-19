@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/helios/Nyangfarm/distro/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "냥팜",
+    "description": "Nyangfarm Running Minecraft 1.21.1 (Fabric v0.16.7)",
+    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "address": "210.223.96.44",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.16.7"
+  },
+  "untrackedFiles": []
+}
