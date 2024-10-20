@@ -8,11 +8,11 @@
   },
   "servers": [
     {
-      "id": "Whale Launcher-1.21.1",
+      "id": "WhaleLauncher-1.21.1",
       "name": "Whale Launcher",
-      "description": "Whale Launcher Running Minecraft 1.21.1 (Fabric v0.16.7)",
+      "description": "WhaleLauncher Running Minecraft 1.21.1 (Fabric v0.16.7)",
       "icon": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/serverImg.png",
-      "version": "1.0.1",
+      "version": "1.0.0",
       "address": "210.223.96.44",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -121,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 431021,
-            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/Nyangfarm-1.21.1/fabricmods/required/balm-fabric-1.21.1-21.0.20.jar",
+            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/WhaleLauncher-1.21.1/fabricmods/required/balm-fabric-1.21.1-21.0.20.jar",
             "MD5": "18fc359ca6a56a42e153a2f85ea6138b"
           }
         },
@@ -131,7 +131,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1157166,
-            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/Nyangfarm-1.21.1/fabricmods/required/cloth-config-15.0.140-fabric.jar",
+            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/WhaleLauncher-1.21.1/fabricmods/required/cloth-config-15.0.140-fabric.jar",
             "MD5": "a2c091b027ad6ba8e54b07020fd45884"
           }
         },
@@ -141,7 +141,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 138660,
-            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/Nyangfarm-1.21.1/fabricmods/optionalon/CocoaInput-1.20.5-fabric-4.4.1-EXPERIMENTAL.jar",
+            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/WhaleLauncher-1.21.1/fabricmods/optionalon/CocoaInput-1.20.5-fabric-4.4.1-EXPERIMENTAL.jar",
             "MD5": "d522001f43d4b5d20dee88cac01201a0"
           },
           "required": {
@@ -154,7 +154,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1007136,
-            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/Nyangfarm-1.21.1/fabricmods/required/continuity-3.0.0-beta.5+1.21.jar",
+            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/WhaleLauncher-1.21.1/fabricmods/required/continuity-3.0.0-beta.5+1.21.jar",
             "MD5": "cd7dbc5efe7f19078ef7609a323e347a"
           }
         },
@@ -164,7 +164,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 23787,
-            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/Nyangfarm-1.21.1/fabricmods/required/cupboardfabric-1.21-2.7.jar",
+            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/WhaleLauncher-1.21.1/fabricmods/required/cupboardfabric-1.21-2.7.jar",
             "MD5": "7cdbe4e5ec76f72962c9bd0ad2edd927"
           }
         },
@@ -174,7 +174,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 91442,
-            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/Nyangfarm-1.21.1/fabricmods/required/defaultoptions-fabric-1.21.1-21.1.1.jar",
+            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/WhaleLauncher-1.21.1/fabricmods/required/defaultoptions-fabric-1.21.1-21.1.1.jar",
             "MD5": "4e0ab6295fc79e1a3a532122bd81a5dc"
           }
         },
@@ -184,7 +184,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2338306,
-            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/Nyangfarm-1.21.1/fabricmods/required/fabric-api-0.106.0+1.21.1.jar",
+            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/WhaleLauncher-1.21.1/fabricmods/required/fabric-api-0.106.0+1.21.1.jar",
             "MD5": "463664735eeab312917c73b001dbd528"
           }
         },
@@ -194,7 +194,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 105000,
-            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/Nyangfarm-1.21.1/fabricmods/required/indium-1.0.35+mc1.21.jar",
+            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/WhaleLauncher-1.21.1/fabricmods/required/indium-1.0.35+mc1.21.jar",
             "MD5": "db92c620cb72a41403b928a0b45955d0"
           }
         },
@@ -204,7 +204,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2659716,
-            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/Nyangfarm-1.21.1/fabricmods/required/iris-fabric-1.8.0-beta.4+mc1.21.1.jar",
+            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/WhaleLauncher-1.21.1/fabricmods/required/iris-fabric-1.8.0-beta.4+mc1.21.1.jar",
             "MD5": "030075230b3656cf86d0aabba17d74c1"
           }
         },
@@ -214,7 +214,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3397422,
-            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/Nyangfarm-1.21.1/fabricmods/required/journeymap-fabric-1.21.1-6.0.0-beta.28.jar",
+            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/WhaleLauncher-1.21.1/fabricmods/required/journeymap-fabric-1.21.1-6.0.0-beta.28.jar",
             "MD5": "792085cb05c83a51944109dd55613e55"
           }
         },
@@ -224,7 +224,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 973066,
-            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/Nyangfarm-1.21.1/fabricmods/required/modmenu-11.0.3.jar",
+            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/WhaleLauncher-1.21.1/fabricmods/required/modmenu-11.0.3.jar",
             "MD5": "d9a3c1f26c571e3eb07ef2ed3e89d1b0"
           }
         },
@@ -234,7 +234,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 11909250,
-            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/Nyangfarm-1.21.1/fabricmods/required/plasmovoice-fabric-1.21-2.1.0.jar",
+            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/WhaleLauncher-1.21.1/fabricmods/required/plasmovoice-fabric-1.21-2.1.0.jar",
             "MD5": "603859520139f3ab769fdcca7a485ee1"
           }
         },
@@ -244,7 +244,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 79797,
-            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/Nyangfarm-1.21.1/fabricmods/required/reeses-sodium-options-fabric-1.8.0-beta.4+mc1.21.1%20(1).jar",
+            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/WhaleLauncher-1.21.1/fabricmods/required/reeses-sodium-options-fabric-1.8.0-beta.4+mc1.21.1%20(1).jar",
             "MD5": "597cfe2c4a42c2fa55c40ddca4c83a42"
           }
         },
@@ -254,7 +254,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1266516,
-            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/Nyangfarm-1.21.1/fabricmods/required/sodium-fabric-0.6.0-beta.2+mc1.21.1.jar",
+            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/WhaleLauncher-1.21.1/fabricmods/required/sodium-fabric-0.6.0-beta.2+mc1.21.1.jar",
             "MD5": "b08f626a6cee1fc3b3f42760c8046e5f"
           }
         },
@@ -264,7 +264,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 139442,
-            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/Nyangfarm-1.21.1/fabricmods/required/WI-Zoom-1.5-MC1.21.1.jar",
+            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/WhaleLauncher-1.21.1/fabricmods/required/WI-Zoom-1.5-MC1.21.1.jar",
             "MD5": "37607f327e106769bb035fd70d586269"
           }
         },
@@ -274,7 +274,7 @@
           "type": "File",
           "artifact": {
             "size": 5216,
-            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/Nyangfarm-1.21.1/files/options.txt",
+            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/WhaleLauncher-1.21.1/files/options.txt",
             "path": "options.txt"
           }
         },
@@ -284,7 +284,7 @@
           "type": "File",
           "artifact": {
             "size": 152,
-            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/Nyangfarm-1.21.1/files/servers.dat",
+            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/WhaleLauncher-1.21.1/files/servers.dat",
             "path": "servers.dat"
           }
         },
@@ -294,7 +294,7 @@
           "type": "File",
           "artifact": {
             "size": 81,
-            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/Nyangfarm-1.21.1/files/servers.dat_old",
+            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/WhaleLauncher-1.21.1/files/servers.dat_old",
             "path": "servers.dat_old"
           }
         },
@@ -304,7 +304,7 @@
           "type": "File",
           "artifact": {
             "size": 953414,
-            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/Nyangfarm-1.21.1/files/shaderpacks/BSL_v8.2.09p1.zip",
+            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/WhaleLauncher-1.21.1/files/shaderpacks/BSL_v8.2.09p1.zip",
             "MD5": "612496c6a0ae763bc996f860ca6e1f2e",
             "path": "shaderpacks/BSL_v8.2.09p1.zip"
           }
@@ -315,7 +315,7 @@
           "type": "File",
           "artifact": {
             "size": 409956,
-            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/Nyangfarm-1.21.1/files/shaderpacks/ComplementaryReimagined_r5.1.1.zip",
+            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/WhaleLauncher-1.21.1/files/shaderpacks/ComplementaryReimagined_r5.1.1.zip",
             "MD5": "36b4136593cac57d2f9aa651603b6e0f",
             "path": "shaderpacks/ComplementaryReimagined_r5.1.1.zip"
           }
@@ -326,7 +326,7 @@
           "type": "File",
           "artifact": {
             "size": 409957,
-            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/Nyangfarm-1.21.1/files/shaderpacks/ComplementaryUnbound_r5.1.1.zip",
+            "url": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/servers/WhaleLauncher-1.21.1/files/shaderpacks/ComplementaryUnbound_r5.1.1.zip",
             "MD5": "da7fc4c86b12e65f4f70b3a9aaabae90",
             "path": "shaderpacks/ComplementaryUnbound_r5.1.1.zip"
           }

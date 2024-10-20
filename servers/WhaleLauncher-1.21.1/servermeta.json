@@ -1,10 +1,10 @@
 {
-  "$schema": "file:///C:/helios/Nyangfarm/distro/schemas/ServerMetaSchema.schema.json",
+  "$schema": "file:///C:/helios/Nyangfarm/git/Whale-distro/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "냥팜",
-    "description": "Nyangfarm Running Minecraft 1.21.1 (Fabric v0.16.7)",
-    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "name": "Whale Launcher (Minecraft 1.21.1)",
+    "description": "WhaleLauncher Running Minecraft 1.21.1 (Fabric v0.16.7)",
+    "icon": "https://raw.githubusercontent.com/jay6977/Whale-distro/main/serverImg.png",
     "address": "210.223.96.44",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",

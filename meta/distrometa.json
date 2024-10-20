@@ -1,5 +1,5 @@
 {
-  "$schema": "file:///C:/helios/Nyangfarm/distro/schemas/DistroMetaSchema.schema.json",
+  "$schema": "file:///C:/helios/Nyangfarm/git/Whale-distro/schemas/DistroMetaSchema.schema.json",
   "meta": {
     "rss": "<LINK TO RSS FEED>",
     "discord": {
